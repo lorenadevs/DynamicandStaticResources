@@ -4,7 +4,7 @@ Exploring the differences of dynamic and static resources in WPF with this pixel
 <h3>More .NET Projects</h3>
 <ul>
   <li>
-    <a href="https://github.com/kxtxrinx/MySQLWPF">Access to MySQL databases hosted on remote servers.</a>
+    <a href="https://github.com/kxtxrinx/MySQLWPF">Access to MySQL databases hosted on remote servers</a>
   </li>
     <li>
     <a href="https://github.com/kxtxrinx/diffLayoutsWPF">Different Layouts</a>
